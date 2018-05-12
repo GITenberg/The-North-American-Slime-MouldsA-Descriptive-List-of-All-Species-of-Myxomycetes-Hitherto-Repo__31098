@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35001'
     url: http://www.gutenberg.org/2009/agents/35001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31098#The-North-American-Slime-MouldsA-Descriptive-List-of-All-Species-of-Myxomycetes-Hitherto-Repo_
 gutenberg_issued: '2010-01-27'
 gutenberg_type: Text
 identifiers:

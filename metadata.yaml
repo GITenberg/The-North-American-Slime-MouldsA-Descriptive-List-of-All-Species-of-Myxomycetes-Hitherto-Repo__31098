@@ -1,0 +1,31 @@
+_repo: The-North-American-Slime-MouldsA-Descriptive-List-of-All-Species-of-Myxomycetes-Hitherto-Repo__31098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macbride, Thomas H. (Thomas Huston)
+    alias: Macbride, Thomas Huston
+    birthdate: 1848
+    deathdate: 1934
+    gutenberg_agent_id: '35001'
+    url: http://www.gutenberg.org/2009/agents/35001
+description: ''
+gutenberg_issued: '2010-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31098'
+  lccn: '22004372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Myxomycetes'
+- !lcc 'QK'
+title: 'The North American Slime-Moulds
+
+  A Descriptive List of All Species of Myxomycetes Hitherto Reported from the Continent
+  of North America, with Notes on Some Extra-Limital Species'
+url: http://www.gutenberg.org/ebooks/31098
